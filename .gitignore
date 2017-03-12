@@ -1,0 +1,7 @@
+*.txt~
+*.css~
+*.sql
+*.py~
+*.pyc~
+.gitignore~
+*.html~

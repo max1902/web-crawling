@@ -1,0 +1,1 @@
+0 13 * * * sh ~/mytutorial/web_scraping/scrapy.sh
