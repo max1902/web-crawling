@@ -1,7 +1,7 @@
 *.txt~
 *.css~
-*.sql
-*.py~
-*.pyc~
+*.sql~
+*.py
+*.pyc
 .gitignore~
-*.html~
+*.html
