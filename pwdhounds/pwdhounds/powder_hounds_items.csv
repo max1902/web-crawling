@@ -1,0 +1,505 @@
+id,name,link,index,parent_id
+Home,Home,http://www.powderhounds.com/,0,
+Japan,Japan,http://www.powderhounds.com/Japan.aspx,1,
+Japan_HotDeals,Hot Deals,http://www.powderhounds.com/Japan/Hot-Deals.aspx,0,Japan
+Japan_HotDeals_Tours,Tours,http://www.powderhounds.com/Japan/Hot-Deals.aspx?Country=Japan&tab=tours,0,Japan_HotDeals
+Japan_HotDeals_Packages,Packages,http://www.powderhounds.com/Japan/Hot-Deals.aspx?Country=Japan&tab=packages,1,Japan_HotDeals
+Japan_HostedTours,Hosted Tours,http://www.powderhounds.com/Japan/Tours.aspx,1,Japan
+Japan_HostedTours_ToursSchedule,Tours Schedule,http://www.powderhounds.com/Japan/Tours-Schedule.aspx,0,Japan_HostedTours
+Japan_HostedTours_RoadTrips,Road Trips,http://www.powderhounds.com/listings-search-results.aspx?Country=Japan&TourType=1,1,Japan_HostedTours
+Japan_HostedTours_BackcountryTours,Backcountry Tours,http://www.powderhounds.com/listings-search-results.aspx?Country=Japan&TourType=32,2,Japan_HostedTours
+Japan_HostedTours_AdvancedTrips,Advanced Trips,http://www.powderhounds.com/listings-search-results.aspx?Country=Japan&Ability=16,3,Japan_HostedTours
+Japan_HostedTours_ProgressionTours,Progression Tours,http://www.powderhounds.com/listings-search-results.aspx?Country=Japan&TourFocus=16,4,Japan_HostedTours
+Japan_HostedTours_BeginnersTrips,Beginners Trips,http://www.powderhounds.com/listings-search-results.aspx?Country=Japan&Ability=1,5,Japan_HostedTours
+Japan_Packages,Packages,http://www.powderhounds.com/Japan/Packages.aspx,2,Japan
+Japan_Honshu,Honshu,http://www.powderhounds.com/Japan/Honshu.aspx,3,Japan
+Japan_Honshu_PackageOptions,Package Options,http://www.powderhounds.com/Japan/Honshu/Packages.aspx,0,Japan_Honshu
+Japan_Honshu_HostedTours,Hosted Tours,http://www.powderhounds.com/Japan/Honshu/Hosted-Tours.aspx,1,Japan_Honshu
+Japan_Honshu_HostedTours_ToursSchedule,Tours Schedule,http://www.powderhounds.com/Japan/Honshu/Tours-Schedule.aspx,0,Japan_Honshu_HostedTours
+Japan_Honshu_HostedTours_RoadTrips,Road Trips,http://www.powderhounds.com/Japan/Honshu/Hosted-Tours.aspx?Country=Japan&Region=Honshu&TourType=1,1,Japan_Honshu_HostedTours
+Japan_Honshu_HostedTours_ProgressionTours,Progression Tours,http://www.powderhounds.com/Japan/Honshu/Hosted-Tours.aspx?Country=Japan&Region=Honshu&TourFocus=16,2,Japan_Honshu_HostedTours
+Japan_Honshu_HostedTours_BackcountryTours,Backcountry Tours,http://www.powderhounds.com/Japan/Honshu/Hosted-Tours.aspx?Country=Japan&Region=Honshu&TourType=32,3,Japan_Honshu_HostedTours
+Japan_Honshu_HakubaValley,Hakuba Valley,http://www.powderhounds.com/Japan/Honshu/Hakuba.aspx,2,Japan_Honshu
+Japan_Honshu_HakubaValley_Hakuba47,Hakuba 47,http://www.powderhounds.com/Japan/Honshu/Hakuba-47.aspx,0,Japan_Honshu_HakubaValley
+Japan_Honshu_HakubaValley_Cortina,Cortina,http://www.powderhounds.com/Japan/Honshu/Hakuba-Cortina.aspx,1,Japan_Honshu_HakubaValley
+Japan_Honshu_HakubaValley_HappoOne,Happo One,http://www.powderhounds.com/Japan/Honshu/Happo-One.aspx,2,Japan_Honshu_HakubaValley
+Japan_Honshu_HakubaValley_Tsugaike,Tsugaike,http://www.powderhounds.com/Japan/Honshu/Hakuba-Tsugaike.aspx,3,Japan_Honshu_HakubaValley
+Japan_Honshu_HakubaValley_Iwatake,Iwatake,http://www.powderhounds.com/Japan/Honshu/Hakuba-Iwatake.aspx,4,Japan_Honshu_HakubaValley
+Japan_Honshu_HakubaValley_Goryu,Goryu,http://www.powderhounds.com/Japan/Honshu/Goryu.aspx,5,Japan_Honshu_HakubaValley
+Japan_Honshu_MyokoKogen,Myoko Kogen,http://www.powderhounds.com/Japan/Honshu/Myoko-Kogen.aspx,3,Japan_Honshu
+Japan_Honshu_MyokoKogen_SekiOnsen,Seki Onsen,http://www.powderhounds.com/Japan/Honshu/Seki-Onsen.aspx,0,Japan_Honshu_MyokoKogen
+Japan_Honshu_MyokoKogen_Suginohara,Suginohara,http://www.powderhounds.com/Japan/Honshu/Suginohara.aspx,1,Japan_Honshu_MyokoKogen
+Japan_Honshu_MyokoKogen_Ikenotaira,Ikenotaira,http://www.powderhounds.com/Japan/Honshu/Ikenotaira.aspx,2,Japan_Honshu_MyokoKogen
+Japan_Honshu_MyokoKogen_Akakura,Akakura,http://www.powderhounds.com/Japan/Honshu/Akakura.aspx,3,Japan_Honshu_MyokoKogen
+Japan_Honshu_Gunma,Gunma,http://www.powderhounds.com#,4,Japan_Honshu
+Japan_Honshu_Gunma_Tenjindaira,Tenjindaira,http://www.powderhounds.com/Japan/Honshu/Tenjindaira.aspx,0,Japan_Honshu_Gunma
+Japan_Honshu_Gunma_Houdaigi,Houdaigi,http://www.powderhounds.com/Japan/Honshu/Minikami-Houdaigi.aspx,1,Japan_Honshu_Gunma
+Japan_Honshu_Gunma_OzeIwakura,Oze Iwakura,http://www.powderhounds.com/Japan/Honshu/Oze-Iwakura.aspx,2,Japan_Honshu_Gunma
+Japan_Honshu_Nagano,Nagano,http://www.powderhounds.com/Japan/Honshu/Nagano.aspx,5,Japan_Honshu
+Japan_Honshu_Nagano_Ryuoo,Ryuoo,http://www.powderhounds.com/Japan/Honshu/Ryuoo.aspx,0,Japan_Honshu_Nagano
+Japan_Honshu_Nagano_Togakushi,Togakushi,http://www.powderhounds.com/Japan/Honshu/Togakushi.aspx,1,Japan_Honshu_Nagano
+Japan_Honshu_Nagano_Tangram,Tangram,http://www.powderhounds.com/Japan/Honshu/Tangram.aspx,2,Japan_Honshu_Nagano
+Japan_Honshu_Nagano_Hakuba,Hakuba,http://www.powderhounds.com/Japan/Honshu/Hakuba.aspx,3,Japan_Honshu_Nagano
+Japan_Honshu_Nagano_ShigaKogen,Shiga Kogen,http://www.powderhounds.com/Japan/Honshu/Shiga-Kogen.aspx,4,Japan_Honshu_Nagano
+Japan_Honshu_Nagano_Kijimadaira,Kijimadaira,http://www.powderhounds.com/Japan/Honshu/Kijimadaira.aspx,5,Japan_Honshu_Nagano
+Japan_Honshu_Nagano_NozawaOnsen,Nozawa Onsen,http://www.powderhounds.com/Japan/Honshu/Nozawa-Onsen.aspx,6,Japan_Honshu_Nagano
+Japan_Honshu_Nagano_Madarao,Madarao,http://www.powderhounds.com/Japan/Honshu/Madarao.aspx,7,Japan_Honshu_Nagano
+Japan_Honshu_Nagano_TogariOnsen,Togari Onsen,http://www.powderhounds.com/Japan/Honshu/Togari-Onsen.aspx,8,Japan_Honshu_Nagano
+Japan_Honshu_Nagano_ShibuOnsen,Shibu Onsen,http://www.powderhounds.com/Japan/Honshu/Shibu-Onsen.aspx,9,Japan_Honshu_Nagano
+Japan_Honshu_Nagano_Yudanaka,Yudanaka,http://www.powderhounds.com/Japan/Honshu/Yudanaka.aspx,10,Japan_Honshu_Nagano
+Japan_Honshu_NozawaOnsen,Nozawa Onsen,http://www.powderhounds.com/Japan/Honshu/Nozawa-Onsen.aspx,6,Japan_Honshu
+Japan_Honshu_NorthernTohoku,Northern Tohoku,http://www.powderhounds.com#,7,Japan_Honshu
+Japan_Honshu_NorthernTohoku_Shizukuishi,Shizukuishi,http://www.powderhounds.com/Japan/Honshu/Shizukuishi.aspx,0,Japan_Honshu_NorthernTohoku
+Japan_Honshu_NorthernTohoku_AppiKogen,Appi Kogen,http://www.powderhounds.com/Japan/Honshu/Appi-Kogen.aspx,1,Japan_Honshu_NorthernTohoku
+Japan_Honshu_NorthernTohoku_GetoKogen,Geto Kogen,http://www.powderhounds.com/Japan/Honshu/Geto-Kogen.aspx,2,Japan_Honshu_NorthernTohoku
+Japan_Honshu_NorthernTohoku_Hachimantai,Hachimantai,http://www.powderhounds.com/Japan/Honshu/Hachimantai.aspx,3,Japan_Honshu_NorthernTohoku
+Japan_Honshu_NorthernTohoku_Hakkoda,Hakkoda,http://www.powderhounds.com/Japan/Honshu/Hakkoda.aspx,4,Japan_Honshu_NorthernTohoku
+Japan_Honshu_NorthernTohoku_ZaoOnsen,Zao Onsen,http://www.powderhounds.com/Japan/Honshu/Zao-Onsen.aspx,5,Japan_Honshu_NorthernTohoku
+Japan_Honshu_NorthernTohoku_Tazawako,Tazawako,http://www.powderhounds.com/Japan/Honshu/Tazawako.aspx,6,Japan_Honshu_NorthernTohoku
+Japan_Honshu_NorthernTohoku_AomoriSpring,Aomori Spring,http://www.powderhounds.com/Japan/Honshu/Aomori-Spring.aspx,7,Japan_Honshu_NorthernTohoku
+Japan_Honshu_Yuzawa,Yuzawa,http://www.powderhounds.com/Japan/Honshu/Yuzawa.aspx,8,Japan_Honshu
+Japan_Honshu_Yuzawa_GalaYuzawa,Gala Yuzawa,http://www.powderhounds.com/Japan/Honshu/Gala-Yuzawa.aspx,0,Japan_Honshu_Yuzawa
+Japan_Honshu_Yuzawa_Ishiuchi,Ishiuchi,http://www.powderhounds.com/Japan/Honshu/Ishiuchi.aspx,1,Japan_Honshu_Yuzawa
+Japan_Honshu_Yuzawa_Hakkaisan,Hakkaisan,http://www.powderhounds.com/Japan/Honshu/Muikamachi-Hakkaisan.aspx,2,Japan_Honshu_Yuzawa
+Japan_Honshu_Yuzawa_Kagura,Kagura,http://www.powderhounds.com/Japan/Honshu/Kagura.aspx,3,Japan_Honshu_Yuzawa
+Japan_Honshu_Yuzawa_JoetsuKokusai,Joetsu Kokusai,http://www.powderhounds.com/Japan/Honshu/Joetsu-Kokusai.aspx,4,Japan_Honshu_Yuzawa
+Japan_Honshu_Yuzawa_KandatsuKogen,Kandatsu Kogen,http://www.powderhounds.com/Japan/Honshu/Kandatsu-Kogen.aspx,5,Japan_Honshu_Yuzawa
+Japan_Honshu_Yuzawa_Naeba,Naeba,http://www.powderhounds.com/Japan/Honshu/Naeba.aspx,6,Japan_Honshu_Yuzawa
+Japan_Honshu_Yuzawa_Maiko,Maiko,http://www.powderhounds.com/Japan/Honshu/Maiko.aspx,7,Japan_Honshu_Yuzawa
+Japan_Honshu_Yuzawa_YuzawaKogen,Yuzawa Kogen,http://www.powderhounds.com/Japan/Honshu/Yuzawa-Kogen.aspx,8,Japan_Honshu_Yuzawa
+Japan_Honshu_ShigaKogen,Shiga Kogen,http://www.powderhounds.com/Japan/Honshu/Shiga-Kogen.aspx,9,Japan_Honshu
+Japan_Honshu_ShigaKogen_OkushigaKogen,Okushiga Kogen,http://www.powderhounds.com/Japan/Honshu/Okushiga-Kogen.aspx,0,Japan_Honshu_ShigaKogen
+Japan_Honshu_MtBandaiArea,Mt Bandai Area,http://www.powderhounds.com#,10,Japan_Honshu
+Japan_Honshu_MtBandaiArea_AltsBandai,Alts Bandai,http://www.powderhounds.com/Japan/Honshu/Alts-Bandai.aspx,0,Japan_Honshu_MtBandaiArea
+Japan_Honshu_MtBandaiArea_Grandeco,Grandeco,http://www.powderhounds.com/Japan/Honshu/Grandeco.aspx,1,Japan_Honshu_MtBandaiArea
+Japan_Honshu_MtBandaiArea_Inawashiro,Inawashiro,http://www.powderhounds.com/Japan/Honshu/Inawashiro.aspx,2,Japan_Honshu_MtBandaiArea
+Japan_Honshu_MtBandaiArea_Minowa,Minowa,http://www.powderhounds.com/Japan/Honshu/Minowa.aspx,3,Japan_Honshu_MtBandaiArea
+Japan_Honshu_MtBandaiArea_Nekoma,Nekoma,http://www.powderhounds.com/Japan/Honshu/Nekoma.aspx,4,Japan_Honshu_MtBandaiArea
+Japan_Honshu_Tokyo,Tokyo,http://www.powderhounds.com/Japan/Honshu/Tokyo.aspx,11,Japan_Honshu
+Japan_Honshu_Tohoku,Tohoku,http://www.powderhounds.com/Japan/Honshu/Tohoku.aspx,12,Japan_Honshu
+Japan_Honshu_ResortswithGroupLessonsinEnglish,Resorts with Group Lessons in English,http://www.powderhounds.com#,13,Japan_Honshu
+Japan_Honshu_ResortswithGroupLessonsinEnglish_AppiKogen,Appi Kogen,http://www.powderhounds.com/Japan/Honshu/Appi-Kogen.aspx,0,Japan_Honshu_ResortswithGroupLessonsinEnglish
+Japan_Honshu_ResortswithGroupLessonsinEnglish_Hakuba,Hakuba,http://www.powderhounds.com/Japan/Honshu/Hakuba.aspx,1,Japan_Honshu_ResortswithGroupLessonsinEnglish
+Japan_Honshu_ResortswithGroupLessonsinEnglish_MyokoKogen,Myoko Kogen,http://www.powderhounds.com/Japan/Honshu/Myoko-Kogen.aspx,2,Japan_Honshu_ResortswithGroupLessonsinEnglish
+Japan_Honshu_ResortswithGroupLessonsinEnglish_NozawaOnsen,Nozawa Onsen,http://www.powderhounds.com/Japan/Honshu/Nozawa-Onsen.aspx,3,Japan_Honshu_ResortswithGroupLessonsinEnglish
+Japan_Honshu_ResortswithGroupLessonsinEnglish_OkushigaKogen,Okushiga Kogen,http://www.powderhounds.com/Japan/Honshu/Okushiga-Kogen.aspx,4,Japan_Honshu_ResortswithGroupLessonsinEnglish
+Japan_Honshu_BestPowderHoundAreas,Best Powder Hound Areas,http://www.powderhounds.com#,14,Japan_Honshu
+Japan_Honshu_BestPowderHoundAreas_GetoKogen,Geto Kogen,http://www.powderhounds.com/Japan/Honshu/Geto-Kogen.aspx,0,Japan_Honshu_BestPowderHoundAreas
+Japan_Honshu_BestPowderHoundAreas_Hakkaisan,Hakkaisan,http://www.powderhounds.com/Japan/Honshu/Muikamachi-Hakkaisan.aspx,1,Japan_Honshu_BestPowderHoundAreas
+Japan_Honshu_BestPowderHoundAreas_Minowa,Minowa,http://www.powderhounds.com/Japan/Honshu/Minowa.aspx,2,Japan_Honshu_BestPowderHoundAreas
+Japan_Honshu_BestPowderHoundAreas_Tazawako,Tazawako,http://www.powderhounds.com/Japan/Honshu/Tazawako.aspx,3,Japan_Honshu_BestPowderHoundAreas
+Japan_Honshu_BestPowderHoundAreas_Tenjindaira,Tenjindaira,http://www.powderhounds.com/Japan/Honshu/Tenjindaira.aspx,4,Japan_Honshu_BestPowderHoundAreas
+Japan_Hokkaido,Hokkaido,http://www.powderhounds.com/Japan/Hokkaido.aspx,4,Japan
+Japan_Hokkaido_NisekoArea,Niseko Area,http://www.powderhounds.com#,0,Japan_Hokkaido
+Japan_Hokkaido_NisekoArea_Niseko,Niseko,http://www.powderhounds.com/Japan/Hokkaido/Niseko.aspx,0,Japan_Hokkaido_NisekoArea
+Japan_Hokkaido_NisekoArea_Moiwa,Moiwa,http://www.powderhounds.com/Japan/Hokkaido/Moiwa.aspx,1,Japan_Hokkaido_NisekoArea
+Japan_Hokkaido_NisekoArea_Rusutsu,Rusutsu,http://www.powderhounds.com/Japan/Hokkaido/Rusutsu.aspx,2,Japan_Hokkaido_NisekoArea
+Japan_Hokkaido_NisekoArea_Kiroro,Kiroro,http://www.powderhounds.com/Japan/Hokkaido/Kiroro.aspx,3,Japan_Hokkaido_NisekoArea
+Japan_Hokkaido_NisekoArea_NisekoHeliSkiing,Niseko Heli Skiing,http://www.powderhounds.com/Ski-Shop/Travel-Services/Tour-Operators/Hokkaido-Backcountry-Club/Shiribetsu-Dake-Day-Heliskiing-6.aspx,4,Japan_Hokkaido_NisekoArea
+Japan_Hokkaido_PackageOptions,Package Options,http://www.powderhounds.com/Japan/Hokkaido/Packages.aspx,1,Japan_Hokkaido
+Japan_Hokkaido_HostedTours,Hosted Tours,http://www.powderhounds.com/Japan/Hokkaido/Hosted-Tours.aspx,2,Japan_Hokkaido
+Japan_Hokkaido_HostedTours_ToursSchedule,Tours Schedule,http://www.powderhounds.com/Japan/Hokkaido/Tours-Schedule.aspx,0,Japan_Hokkaido_HostedTours
+Japan_Hokkaido_HostedTours_RoadTrips,Road Trips,http://www.powderhounds.com/Japan/Hokkaido/Hosted-Tours.aspx?Country=Japan&Region=Hokkaido&TourType=1,1,Japan_Hokkaido_HostedTours
+Japan_Hokkaido_HostedTours_ProgressionTours,Progression Tours,http://www.powderhounds.com/Japan/Hokkaido/Hosted-Tours.aspx?Country=Japan&Region=Hokkaido&TourFocus=16,2,Japan_Hokkaido_HostedTours
+Japan_Hokkaido_HostedTours_BackcountryTours,Backcountry Tours,http://www.powderhounds.com/Japan/Hokkaido/Hosted-Tours.aspx?Country=Japan&Region=Hokkaido&TourType=32,3,Japan_Hokkaido_HostedTours
+Japan_Hokkaido_SapporoArea,Sapporo Area,http://www.powderhounds.com/Japan/Hokkaido/Sapporo.aspx,3,Japan_Hokkaido
+Japan_Hokkaido_SapporoArea_Sapporo,Sapporo,http://www.powderhounds.com/Japan/Hokkaido/Sapporo.aspx,0,Japan_Hokkaido_SapporoArea
+Japan_Hokkaido_SapporoArea_SapporoKokusai,Sapporo Kokusai,http://www.powderhounds.com/Japan/Hokkaido/Sapporo-Kokusai.aspx,1,Japan_Hokkaido_SapporoArea
+Japan_Hokkaido_SapporoArea_SapporoTeine,Sapporo Teine,http://www.powderhounds.com/Japan/Hokkaido/Sapporo-Teine.aspx,2,Japan_Hokkaido_SapporoArea
+Japan_Hokkaido_SapporoArea_Asari,Asari,http://www.powderhounds.com/Japan/Hokkaido/Asari.aspx,3,Japan_Hokkaido_SapporoArea
+Japan_Hokkaido_SapporoArea_Kiroro,Kiroro,http://www.powderhounds.com/Japan/Hokkaido/Kiroro.aspx,4,Japan_Hokkaido_SapporoArea
+Japan_Hokkaido_SapporoArea_Yubari,Yubari,http://www.powderhounds.com/Japan/Hokkaido/Yubari.aspx,5,Japan_Hokkaido_SapporoArea
+Japan_Hokkaido_Furano,Furano,http://www.powderhounds.com/Japan/Hokkaido/Furano.aspx,4,Japan_Hokkaido
+Japan_Hokkaido_NorthCentral,North Central,http://www.powderhounds.com#,5,Japan_Hokkaido
+Japan_Hokkaido_NorthCentral_Asahikawa,Asahikawa,http://www.powderhounds.com/Japan/Hokkaido/Asahikawa.aspx,0,Japan_Hokkaido_NorthCentral
+Japan_Hokkaido_NorthCentral_Kamui,Kamui,http://www.powderhounds.com/Japan/Hokkaido/KamuiLinks.aspx,1,Japan_Hokkaido_NorthCentral
+Japan_Hokkaido_NorthCentral_Asahidake,Asahidake,http://www.powderhounds.com/Japan/Hokkaido/Asahidake.aspx,2,Japan_Hokkaido_NorthCentral
+Japan_Hokkaido_NorthCentral_Furano,Furano,http://www.powderhounds.com/Japan/Hokkaido/Furano.aspx,3,Japan_Hokkaido_NorthCentral
+Japan_Hokkaido_NorthCentral_Kurodake,Kurodake,http://www.powderhounds.com/Japan/Hokkaido/Kurodake.aspx,4,Japan_Hokkaido_NorthCentral
+Japan_Hokkaido_NorthCentral_Nukabira,Nukabira,http://www.powderhounds.com/Japan/Hokkaido/Nukabira.aspx,5,Japan_Hokkaido_NorthCentral
+Japan_Hokkaido_NorthCentral_Tokachidake,Tokachidake,http://www.powderhounds.com/Japan/Hokkaido/Tokachidake.aspx,6,Japan_Hokkaido_NorthCentral
+Japan_Hokkaido_NorthCentral_NACCatSkiing,NAC Cat Skiing,http://www.powderhounds.com/Japan/Cat-Skiing/NAC-Cat-Skiing.aspx,7,Japan_Hokkaido_NorthCentral
+Japan_Hokkaido_NorthCentral_Pippu,Pippu,http://www.powderhounds.com/Japan/Hokkaido/Pippu.aspx,8,Japan_Hokkaido_NorthCentral
+Japan_Hokkaido_NorthCentral_NayoroPiyashiri,Nayoro Piyashiri,http://www.powderhounds.com/Japan/Hokkaido/Nayoro-Piyashiri.aspx,9,Japan_Hokkaido_NorthCentral
+Japan_Hokkaido_SouthCentral,South Central,http://www.powderhounds.com#,6,Japan_Hokkaido
+Japan_Hokkaido_SouthCentral_Sahoro,Sahoro,http://www.powderhounds.com/Japan/Hokkaido/Sahoro.aspx,0,Japan_Hokkaido_SouthCentral
+Japan_Hokkaido_SouthCentral_Yubari,Yubari,http://www.powderhounds.com/Japan/Hokkaido/Yubari.aspx,1,Japan_Hokkaido_SouthCentral
+Japan_Hokkaido_SouthCentral_Tomamu,Tomamu,http://www.powderhounds.com/Japan/Hokkaido/Tomamu.aspx,2,Japan_Hokkaido_SouthCentral
+Japan_Hokkaido_SouthCentral_Furano,Furano,http://www.powderhounds.com/Japan/Hokkaido/Furano.aspx,3,Japan_Hokkaido_SouthCentral
+Japan_Hokkaido_Niseko,Niseko,http://www.powderhounds.com/Japan/Hokkaido/Niseko.aspx,7,Japan_Hokkaido
+Japan_Hokkaido_Niseko_PackageOptions,Package Options,http://www.powderhounds.com/Japan/Hokkaido/Niseko/Packages.aspx,0,Japan_Hokkaido_Niseko
+Japan_Hokkaido_Rusutsu,Rusutsu,http://www.powderhounds.com/Japan/Hokkaido/Rusutsu.aspx,8,Japan_Hokkaido
+Japan_Hokkaido_Rusutsu_PackageOptions,Package Options,http://www.powderhounds.com/Japan/Hokkaido/Rusutsu/Packages.aspx,0,Japan_Hokkaido_Rusutsu
+Japan_Hokkaido_NorthernHokkaido,Northern Hokkaido,http://www.powderhounds.com#,9,Japan_Hokkaido
+Japan_Hokkaido_NorthernHokkaido_Piyashiri,Piyashiri,http://www.powderhounds.com/Japan/Hokkaido/Nayoro-Piyashiri.aspx,0,Japan_Hokkaido_NorthernHokkaido
+Japan_Hokkaido_NorthernHokkaido_RishiriIsland,Rishiri Island,http://www.powderhounds.com/Japan/Hokkaido/Rishiri-Island.aspx,1,Japan_Hokkaido_NorthernHokkaido
+Japan_Hokkaido_ResortswithGroupLessonsinEnglish,Resorts with Group Lessons in English,http://www.powderhounds.com#,10,Japan_Hokkaido
+Japan_Hokkaido_ResortswithGroupLessonsinEnglish_Furano,Furano,http://www.powderhounds.com/Japan/Hokkaido/Furano.aspx,0,Japan_Hokkaido_ResortswithGroupLessonsinEnglish
+Japan_Hokkaido_ResortswithGroupLessonsinEnglish_Niseko,Niseko,http://www.powderhounds.com/Japan/Hokkaido/Niseko.aspx,1,Japan_Hokkaido_ResortswithGroupLessonsinEnglish
+Japan_Hokkaido_ResortswithGroupLessonsinEnglish_Tomamu,Tomamu,http://www.powderhounds.com/Japan/Hokkaido/Tomamu.aspx,2,Japan_Hokkaido_ResortswithGroupLessonsinEnglish
+Japan_Hokkaido_BestPowderHoundAreas,Best Powder Hound Areas,http://www.powderhounds.com#,11,Japan_Hokkaido
+Japan_Hokkaido_BestPowderHoundAreas_Asahidake,Asahidake,http://www.powderhounds.com/Japan/Hokkaido/Asahidake.aspx,0,Japan_Hokkaido_BestPowderHoundAreas
+Japan_Hokkaido_BestPowderHoundAreas_Kiroro,Kiroro,http://www.powderhounds.com/Japan/Hokkaido/Kiroro.aspx,1,Japan_Hokkaido_BestPowderHoundAreas
+Japan_Hokkaido_BestPowderHoundAreas_Kurodake,Kurodake,http://www.powderhounds.com/Japan/Hokkaido/Kurodake.aspx,2,Japan_Hokkaido_BestPowderHoundAreas
+Japan_Hokkaido_BestPowderHoundAreas_SapporoTeine,Sapporo Teine,http://www.powderhounds.com/Japan/Hokkaido/Sapporo-Teine.aspx,3,Japan_Hokkaido_BestPowderHoundAreas
+Japan_Hokkaido_BestPowderHoundAreas_Tomamu,Tomamu,http://www.powderhounds.com/Japan/Hokkaido/Tomamu.aspx,4,Japan_Hokkaido_BestPowderHoundAreas
+Japan_CatSkiing,Cat Skiing,http://www.powderhounds.com/Japan/Cat-Skiing.aspx,5,Japan
+Japan_CatSkiing_NACCatSkiing,NAC Cat Skiing,http://www.powderhounds.com/Japan/Cat-Skiing/NAC-Cat-Skiing.aspx,0,Japan_CatSkiing
+Japan_CatSkiing_ShimamakiSnowcat,Shimamaki Snowcat,http://www.powderhounds.com/Ski-Shop/Travel-Services/Tour-Operators/Hokkaido-Backcountry-Club/Shimamaki-Snowcat-Adventures.aspx,1,Japan_CatSkiing
+Japan_CatSkiing_WeissCatSkiing,Weiss Cat Skiing,http://www.powderhounds.com/Japan/Cat-Skiing/Weiss-Cat-Skiing.aspx,2,Japan_CatSkiing
+Japan_CatSkiing_RisingSunCatSkiing,Rising Sun Cat Skiing,http://www.powderhounds.com/Ski-Shop/Travel-Services/Tour-Operators/Rising-Sun-Guides/Niseko-Cat-Skiing.aspx,3,Japan_CatSkiing
+Japan_CatSkiing_MyokoSnowcatTours,Myoko Snowcat Tours,http://www.powderhounds.com/Japan/Cat-Skiing/Myoko-Snowcat-Tours/Myoko-Day-Cat-Skiing.aspx,4,Japan_CatSkiing
+Japan_CatSkiing_Chisenupuri,Chisenupuri,http://www.powderhounds.com/Ski-Shop/Travel-Services/Tour-Operators/Hokkaido-Backcountry-Club/Chisenupuri-Cat-Skiing.aspx,5,Japan_CatSkiing
+Japan_HeliSkiing,Heli Skiing,http://www.powderhounds.com/Japan/Heli-Skiing.aspx,6,Japan
+Japan_HeliSkiing_Shiribetsu,Shiribetsu,http://www.powderhounds.com/Ski-Shop/Travel-Services/Tour-Operators/Hokkaido-Backcountry-Club/Shiribetsu-Dake-Day-Heliskiing-6.aspx,0,Japan_HeliSkiing
+Europe,Europe,http://www.powderhounds.com/Europe.aspx,2,
+Europe_HostedTours,Hosted Tours,http://www.powderhounds.com/Europe/Tours.aspx,0,Europe
+Europe_Austria,Austria,http://www.powderhounds.com/Europe/Austria.aspx,1,Europe
+Europe_Austria_HintertuxGlacier,Hintertux Glacier,http://www.powderhounds.com/Europe/Austria/Hintertux-Glacier.aspx,0,Europe_Austria
+Europe_Austria_Innsbruck,Innsbruck,http://www.powderhounds.com/Europe/Austria/Innsbruck.aspx,1,Europe_Austria
+Europe_Austria_Kaprun,Kaprun,http://www.powderhounds.com/Europe/Austria/Kaprun.aspx,2,Europe_Austria
+Europe_Austria_Kitzbuhel,Kitzbuhel,http://www.powderhounds.com/Europe/Austria/Kitzbuhel.aspx,3,Europe_Austria
+Europe_Austria_Lech,Lech,http://www.powderhounds.com/Europe/Austria/Lech-Zurs.aspx,4,Europe_Austria
+Europe_Austria_Mayrhofen,Mayrhofen,http://www.powderhounds.com/Europe/Austria/Mayrhofen.aspx,5,Europe_Austria
+Europe_Austria_Pitztal,Pitztal,http://www.powderhounds.com/Europe/Austria/Pitztal.aspx,6,Europe_Austria
+Europe_Austria_SkiCircusSaalbach,SkiCircus Saalbach,http://www.powderhounds.com/Europe/Austria/SkiCircus-Saalbach.aspx,7,Europe_Austria
+Europe_Austria_StAnton,St Anton,http://www.powderhounds.com/Europe/Austria/StAnton.aspx,8,Europe_Austria
+Europe_Austria_StubaiGlacier,Stubai Glacier,http://www.powderhounds.com/Europe/Austria/Stubai-Glacier.aspx,9,Europe_Austria
+Europe_Austria_ZellamSee,Zell am See,http://www.powderhounds.com/Europe/Austria/Zell-am-See.aspx,10,Europe_Austria
+Europe_Austria_Zürs,Zürs,http://www.powderhounds.com/Europe/Austria/Zurs.aspx,11,Europe_Austria
+Europe_France,France,http://www.powderhounds.com/Europe/France.aspx,2,Europe
+Europe_France_Chamonix,Chamonix,http://www.powderhounds.com/Europe/France/Chamonix.aspx,0,Europe_France
+Europe_France_Courchevel,Courchevel,http://www.powderhounds.com/Europe/France/Courchevel.aspx,1,Europe_France
+Europe_France_LaRosiere,La Rosiere,http://www.powderhounds.com/Europe/France/La-Rosiere.aspx,2,Europe_France
+Europe_France_Meribel,Meribel,http://www.powderhounds.com/Europe/France/Meribel.aspx,3,Europe_France
+Europe_France_Montgenevre,Montgenevre,http://www.powderhounds.com/Europe/France/Montgenevre.aspx,4,Europe_France
+Europe_France_SainteFoy,Sainte Foy,http://www.powderhounds.com/Europe/France/Sainte-Foy.aspx,5,Europe_France
+Europe_France_SerreChevalier,Serre Chevalier,http://www.powderhounds.com/Europe/France/Serre-Chevalier.aspx,6,Europe_France
+Europe_France_Tignes,Tignes,http://www.powderhounds.com/Europe/France/Tignes.aspx,7,Europe_France
+Europe_France_ValdIsere,Val d'Isere,http://www.powderhounds.com/Europe/France/Valdisere.aspx,8,Europe_France
+Europe_Italy,Italy,http://www.powderhounds.com/Europe/Italy.aspx,3,Europe
+Europe_Italy_3PeaksDolomites,3 Peaks Dolomites,http://www.powderhounds.com/Europe/Italy/3-Peaks-Dolomites.aspx,0,Europe_Italy
+Europe_Italy_AltaBadia,Alta Badia,http://www.powderhounds.com/Europe/Italy/Alta-Badia.aspx,1,Europe_Italy
+Europe_Italy_ArabbaMarmolada,Arabba Marmolada,http://www.powderhounds.com/Europe/Italy/Arabba-Marmolada.aspx,2,Europe_Italy
+Europe_Italy_Cervinia,Cervinia,http://www.powderhounds.com/Europe/Italy/Cervinia.aspx,3,Europe_Italy
+Europe_Italy_Cortina,Cortina,http://www.powderhounds.com/Europe/Italy/Cortina.aspx,4,Europe_Italy
+Europe_Italy_Courmayeur,Courmayeur,http://www.powderhounds.com/Europe/Italy/Courmayeur.aspx,5,Europe_Italy
+Europe_Italy_Dolomites,Dolomites,http://www.powderhounds.com/Europe/Italy/Dolomites.aspx,6,Europe_Italy
+Europe_Italy_Kronplatz,Kronplatz,http://www.powderhounds.com/Europe/Italy/Kronplatz.aspx,7,Europe_Italy
+Europe_Italy_LaThuile,La Thuile,http://www.powderhounds.com/Europe/Italy/La-Thuile.aspx,8,Europe_Italy
+Europe_Italy_Monterosa,Monterosa,http://www.powderhounds.com/Europe/Italy/Monterosa.aspx,9,Europe_Italy
+Europe_Italy_Oulx,Oulx,http://www.powderhounds.com/Europe/Italy/Oulx.aspx,10,Europe_Italy
+Europe_Italy_Plose,Plose,http://www.powderhounds.com/Europe/Italy/Plose.aspx,11,Europe_Italy
+Europe_Italy_Sestriere,Sestriere,http://www.powderhounds.com/Europe/Italy/Sestriere.aspx,12,Europe_Italy
+Europe_Italy_ValdiFassa,Val di Fassa,http://www.powderhounds.com/Europe/Italy/Val-di-Fassa.aspx,13,Europe_Italy
+Europe_Italy_ValGardena,Val Gardena,http://www.powderhounds.com/Europe/Italy/Val-Gardena.aspx,14,Europe_Italy
+Europe_Italy_ViaLattea,Via Lattea,http://www.powderhounds.com/Europe/Italy/Via-Lattea.aspx,15,Europe_Italy
+Europe_Switzerland,Switzerland,http://www.powderhounds.com/Europe/Switzerland.aspx,4,Europe
+Europe_Switzerland_AndermattSedrun,Andermatt Sedrun,http://www.powderhounds.com/Europe/Switzerland/Andermatt-Sedrun.aspx,0,Europe_Switzerland
+Europe_Switzerland_Engelberg,Engelberg,http://www.powderhounds.com/Europe/Switzerland/Engelberg.aspx,1,Europe_Switzerland
+Europe_Switzerland_SaasFee,Saas Fee,http://www.powderhounds.com/Europe/Switzerland/Saas-Fee.aspx,2,Europe_Switzerland
+Europe_Switzerland_Verbier,Verbier,http://www.powderhounds.com/Europe/Switzerland/Verbier.aspx,3,Europe_Switzerland
+Europe_Switzerland_Zermatt,Zermatt,http://www.powderhounds.com/Europe/Switzerland/Zermatt.aspx,4,Europe_Switzerland
+Europe_HeliSkiing,Heli Skiing,http://www.powderhounds.com/Europe/Heli-Skiing.aspx,5,Europe
+Europe_HeliSkiing_HeliskiMonteRosa,Heliski Monte Rosa,http://www.powderhounds.com/Europe/Heli-Skiing/Heliski-Monte-Rosa.aspx,0,Europe_HeliSkiing
+Canada,Canada,http://www.powderhounds.com/Canada.aspx,3,
+Canada_HeliSkiingCanada,Heli Skiing Canada,http://www.powderhounds.com/Canada/Heli-Skiing.aspx,0,Canada
+Canada_HeliSkiingCanada_BCHELIPACKAGES,BC HELI PACKAGES,http://www.powderhounds.com/Canada/Heli-Skiing/Packages.aspx,0,Canada_HeliSkiingCanada
+Canada_HeliSkiingCanada_BellaCoolaHeli,Bella Coola Heli,http://www.powderhounds.com/Canada/Heli-Skiing/Bella-Coola-Heli-Sports.aspx,1,Canada_HeliSkiingCanada
+Canada_HeliSkiingCanada_EaglePassHeliskiing,Eagle Pass Heliskiing,http://www.powderhounds.com/Canada/Heli-Skiing/Eagle-Pass-Heliskiing.aspx,2,Canada_HeliSkiingCanada
+Canada_HeliSkiingCanada_LastFrontier,Last Frontier,http://www.powderhounds.com/Canada/Heli-Skiing/Last-Frontier.aspx,3,Canada_HeliSkiingCanada
+Canada_HeliSkiingCanada_MikeWiegele,Mike Wiegele,http://www.powderhounds.com/Canada/Heli-Skiing/Mike-Wiegele-Helicopter-Skiing.aspx,4,Canada_HeliSkiingCanada
+Canada_HeliSkiingCanada_NorthernEscape,Northern Escape,http://www.powderhounds.com/Canada/Heli-Skiing/Northern-Escape.aspx,5,Canada_HeliSkiingCanada
+Canada_HeliSkiingCanada_PurcellHeliSkiing,Purcell Heli Skiing,http://www.powderhounds.com/Canada/Heli-Skiing/Purcell-Heli-Skiing.aspx,6,Canada_HeliSkiingCanada
+Canada_HeliSkiingCanada_RKHeliSki,RK HeliSki,http://www.powderhounds.com/Canada/Heli-Skiing/RK-Heliski.aspx,7,Canada_HeliSkiingCanada
+Canada_HeliSkiingCanada_SelkirkTangiers,Selkirk Tangiers,http://www.powderhounds.com/Canada/Heli-Skiing/Selkirk-Tangiers.aspx,8,Canada_HeliSkiingCanada
+Canada_HeliSkiingCanada_SilverTipLodgeHeliskiing,Silver Tip Lodge Heliskiing,http://www.powderhounds.com/Canada/Heli-Skiing/Silver-Tip-Lodge-Heliskiing.aspx,9,Canada_HeliSkiingCanada
+Canada_HeliSkiingCanada_SkeenaHeliskiing,Skeena Heliskiing,http://www.powderhounds.com/Canada/Heli-Skiing/Skeena-Heliskiing.aspx,10,Canada_HeliSkiingCanada
+Canada_HeliSkiingCanada_StellarHeliskiing,Stellar Heliskiing,http://www.powderhounds.com/Canada/Heli-Skiing/Stellar-Heliskiing.aspx,11,Canada_HeliSkiingCanada
+Canada_HeliSkiingCanada_StellarHeliskiing_KasloAccommodation,Kaslo Accommodation,http://www.powderhounds.com/Canada/Heli-Skiing/Stellar-Heliskiing/Kaslo-Accommodation.aspx,0,Canada_HeliSkiingCanada_StellarHeliskiing
+Canada_HeliSkiingCanada_Snowwater,Snowwater,http://www.powderhounds.com/Canada/Heli-Skiing/Snowwater-Heli-Skiing.aspx,12,Canada_HeliSkiingCanada
+Canada_HeliSkiingCanada_TLHHeliskiing,TLH Heliskiing,http://www.powderhounds.com/Canada/Heli-Skiing/TLH-Heliskiing.aspx,13,Canada_HeliSkiingCanada
+Canada_HeliSkiingCanada_WhistlerHeli-Skiing,Whistler Heli-Skiing,http://www.powderhounds.com/Canada/Heli-Skiing/Whistler-Heli-Skiing.aspx,14,Canada_HeliSkiingCanada
+Canada_HostedTours,Hosted Tours,http://www.powderhounds.com/Canada/Tours.aspx,1,Canada
+Canada_HostedTours_ToursSchedule,Tours Schedule,http://www.powderhounds.com/Canada/Tours-Schedule.aspx,0,Canada_HostedTours
+Canada_HostedTours_RoadTrips,Road Trips,http://www.powderhounds.com/listings-search-results.aspx?Country=Canada&TourType=1,1,Canada_HostedTours
+Canada_HostedTours_HeliSkiing,Heli Skiing,http://www.powderhounds.com/listings-search-results.aspx?Country=Canada&TourType=64,2,Canada_HostedTours
+Canada_HostedTours_CatSkiing,Cat Skiing,http://www.powderhounds.com/listings-search-results.aspx?Country=Canada&TourType=128,3,Canada_HostedTours
+Canada_HotDeals,Hot Deals,http://www.powderhounds.com/Canada/Hot-Deals.aspx,2,Canada
+Canada_HotDeals_Tours,Tours,http://www.powderhounds.com/Canada/Hot-Deals.aspx?Country=Canada&tab=tours,0,Canada_HotDeals
+Canada_HotDeals_Packages,Packages,http://www.powderhounds.com/Canada/Hot-Deals.aspx?Country=Canada,1,Canada_HotDeals
+Canada_CatSkiing,Cat Skiing,http://www.powderhounds.com/Canada/Cat-Skiing.aspx,3,Canada
+Canada_CatSkiing_BCCATSKIINGTOURS,BC CAT SKIING TOURS,http://www.powderhounds.com/Canada/Cat-Skiing/Packages.aspx,0,Canada_CatSkiing
+Canada_CatSkiing_BigRedCats,Big Red Cats,http://www.powderhounds.com/Canada/Cat-Skiing/BigRedCats.aspx,1,Canada_CatSkiing
+Canada_CatSkiing_ChatterCreek,Chatter Creek,http://www.powderhounds.com/Canada/Cat-Skiing/ChatterCreek.aspx,2,Canada_CatSkiing
+Canada_CatSkiing_FWAPowderCatskiing,FWA Powder Catskiing,http://www.powderhounds.com/Canada/Cat-Skiing/FWA-Powder-Catskiing.aspx,3,Canada_CatSkiing
+Canada_CatSkiing_GreatNorthernSnowcatSkiing,Great Northern Snowcat Skiing,http://www.powderhounds.com/Canada/Cat-Skiing/Great-Northern-Snowcat-Skiing.aspx,4,Canada_CatSkiing
+Canada_CatSkiing_MustangPowder,Mustang Powder,http://www.powderhounds.com/Canada/Cat-Skiing/Mustang-Powder.aspx,5,Canada_CatSkiing
+Canada_CatSkiing_PowderMountain,Powder Mountain,http://www.powderhounds.com/Canada/Cat-Skiing/Powder-Mountain.aspx,6,Canada_CatSkiing
+Canada_CatSkiing_PowderStagecoach,Powder Stagecoach,http://www.powderhounds.com/Canada/Cat-Skiing/Powder-Stagecoach.aspx,7,Canada_CatSkiing
+Canada_CatSkiing_Retallack,Retallack,http://www.powderhounds.com/Canada/Cat-Skiing/Retallack.aspx,8,Canada_CatSkiing
+Canada_CatSkiing_Revelstoke,Revelstoke,http://www.powderhounds.com/Canada/Cat-Skiing/Revelstoke.aspx,9,Canada_CatSkiing
+Canada_CatSkiing_SelkirkSnowcatSkiing,Selkirk Snowcat Skiing,http://www.powderhounds.com/Canada/Cat-Skiing/Selkirk-Wilderness-Skiing.aspx,10,Canada_CatSkiing
+Canada_CatSkiing_SkeenaCatSkiing,Skeena Cat Skiing,http://www.powderhounds.com/Canada/Cat-Skiing/Skeena-Cat-Skiing.aspx,11,Canada_CatSkiing
+Canada_CatSkiing_ValhallaPowdercats,Valhalla Powdercats,http://www.powderhounds.com/Canada/Cat-Skiing/Valhalla-Powdercats.aspx,12,Canada_CatSkiing
+Canada_CatSkiing_WhiteGrizzly,White Grizzly,http://www.powderhounds.com/Canada/Cat-Skiing/WhiteGrizzly.aspx,13,Canada_CatSkiing
+Canada_Banff,Banff,http://www.powderhounds.com/Canada/Banff.aspx,4,Canada
+Canada_BigWhite,Big White,http://www.powderhounds.com/Canada/BigWhite.aspx,5,Canada
+Canada_CastleMountain,Castle Mountain,http://www.powderhounds.com/Canada/Castle-Mountain.aspx,6,Canada
+Canada_Fernie,Fernie,http://www.powderhounds.com/Canada/Fernie.aspx,7,Canada
+Canada_KickingHorse,Kicking Horse,http://www.powderhounds.com/Canada/KickingHorse.aspx,8,Canada
+Canada_Kimberley,Kimberley,http://www.powderhounds.com/Canada/Kimberley.aspx,9,Canada
+Canada_LakeLouise,Lake Louise,http://www.powderhounds.com/Canada/LakeLouise.aspx,10,Canada
+Canada_MarmotBasin,Marmot Basin,http://www.powderhounds.com/Canada/Marmot-Basin.aspx,11,Canada
+Canada_Nakiska,Nakiska,http://www.powderhounds.com/Canada/Nakiska.aspx,12,Canada
+Canada_Norquay,Norquay,http://www.powderhounds.com/Canada/Norquay.aspx,13,Canada
+Canada_Panorama,Panorama,http://www.powderhounds.com/Canada/Panorama.aspx,14,Canada
+Canada_RedMountain,Red Mountain,http://www.powderhounds.com/Canada/RedMountain.aspx,15,Canada
+Canada_Revelstoke,Revelstoke,http://www.powderhounds.com/Canada/Revelstoke.aspx,16,Canada
+Canada_Sunshine,Sunshine,http://www.powderhounds.com/Canada/Sunshine.aspx,17,Canada
+Canada_SilverStar,Silver Star,http://www.powderhounds.com/Canada/Silverstar.aspx,18,Canada
+Canada_SunPeaks,Sun Peaks,http://www.powderhounds.com/Canada/SunPeaks.aspx,19,Canada
+Canada_WhistlerBlackcomb,Whistler Blackcomb,http://www.powderhounds.com/Canada/Whistler-Blackcomb.aspx,20,Canada
+Canada_Whitewater,Whitewater,http://www.powderhounds.com/Canada/Whitewater.aspx,21,Canada
+SouthAmerica,South America,http://www.powderhounds.com/SouthAmerica.aspx,4,
+SouthAmerica_HotDeals,Hot Deals,http://www.powderhounds.com/SouthAmerica/Hot-Deals.aspx,0,SouthAmerica
+SouthAmerica_HotDeals_Packages,Packages,http://www.powderhounds.com/SouthAmerica/Hot-Deals.aspx?Country=South+America&tab=packages,0,SouthAmerica_HotDeals
+SouthAmerica_HotDeals_HostedTours,Hosted Tours,http://www.powderhounds.com/SouthAmerica/Hot-Deals.aspx?Country=South+America&tab=tours,1,SouthAmerica_HotDeals
+SouthAmerica_HostedTours,Hosted Tours,http://www.powderhounds.com/SouthAmerica/Hosted-Tours.aspx,1,SouthAmerica
+SouthAmerica_HostedTours_ToursSchedule,Tours Schedule,http://www.powderhounds.com/SouthAmerica/Tours-Schedule.aspx,0,SouthAmerica_HostedTours
+SouthAmerica_HostedTours_ProgressionTours,Progression Tours,http://www.powderhounds.com/listings-search-results.aspx?Country=South+America&TourFocus=20,1,SouthAmerica_HostedTours
+SouthAmerica_HostedTours_GuidedRoadTrips,Guided Road Trips,http://www.powderhounds.com/listings-search-results.aspx?Country=South+America&TourType=1&TourFocus=18,2,SouthAmerica_HostedTours
+SouthAmerica_Packages,Packages,http://www.powderhounds.com/SouthAmerica/Packages.aspx,2,SouthAmerica
+SouthAmerica_Packages_ChilePackages,Chile Packages,http://www.powderhounds.com/SouthAmerica/Packages.aspx?Country=South+America&Region=Chile,0,SouthAmerica_Packages
+SouthAmerica_Chile,Chile,http://www.powderhounds.com/SouthAmerica/Chile.aspx,3,SouthAmerica
+SouthAmerica_Chile_Farellones,Farellones,http://www.powderhounds.com/SouthAmerica/Chile/Farellones.aspx,0,SouthAmerica_Chile
+SouthAmerica_Chile_HostedTours,Hosted Tours,http://www.powderhounds.com/SouthAmerica/Chile/Hosted-Tours.aspx,1,SouthAmerica_Chile
+SouthAmerica_Chile_Antillanca,Antillanca,http://www.powderhounds.com/SouthAmerica/Chile/Antillanca.aspx,2,SouthAmerica_Chile
+SouthAmerica_Chile_ArpaCatSkiing,Arpa Cat Skiing,http://www.powderhounds.com/SouthAmerica/Chile/Arpa-Cat-Skiing.aspx,3,SouthAmerica_Chile
+SouthAmerica_Chile_NevadosdeChillan,Nevados de Chillan,http://www.powderhounds.com/SouthAmerica/Chile/Termas-de-Chillan.aspx,4,SouthAmerica_Chile
+SouthAmerica_Chile_Corralco,Corralco,http://www.powderhounds.com/SouthAmerica/Chile/Corralco.aspx,5,SouthAmerica_Chile
+SouthAmerica_Chile_ElColorado,El Colorado,http://www.powderhounds.com/SouthAmerica/Chile/ElColorado.aspx,6,SouthAmerica_Chile
+SouthAmerica_Chile_LasTrancas,Las Trancas,http://www.powderhounds.com/SouthAmerica/Chile/Las-Trancas.aspx,7,SouthAmerica_Chile
+SouthAmerica_Chile_LaParva,La Parva,http://www.powderhounds.com/SouthAmerica/Chile/LaParva.aspx,8,SouthAmerica_Chile
+SouthAmerica_Chile_Portillo,Portillo,http://www.powderhounds.com/SouthAmerica/Chile/Portillo.aspx,9,SouthAmerica_Chile
+SouthAmerica_Chile_Pucon,Pucon,http://www.powderhounds.com/SouthAmerica/Chile/Ski-Pucon.aspx,10,SouthAmerica_Chile
+SouthAmerica_Chile_Santiago,Santiago,http://www.powderhounds.com/SouthAmerica/Chile/Santiago.aspx,11,SouthAmerica_Chile
+SouthAmerica_Chile_ValleNevado,Valle Nevado,http://www.powderhounds.com/SouthAmerica/Chile/Valle-Nevado.aspx,12,SouthAmerica_Chile
+SouthAmerica_Chile_HeliSkiing,Heli Skiing,http://www.powderhounds.com/SouthAmerica/Chile/Heli-skiing.aspx,13,SouthAmerica_Chile
+SouthAmerica_Chile_HeliSkiing_SantiagoDayHeliskiing,Santiago Day Heliskiing,http://www.powderhounds.com/Ski-Shop/Travel-Services/Tour-Operators/Upscape-Travel/Santiago-Day-Heliskiing.aspx,0,SouthAmerica_Chile_HeliSkiing
+SouthAmerica_Chile_HeliSkiing_PumaLodgeHeliskiing,Puma Lodge Heliskiing,http://www.powderhounds.com/Ski-Shop/Travel-Services/Tour-Operators/Upscape-Travel/Puma-Lodge-Heli-Skiing.aspx,1,SouthAmerica_Chile_HeliSkiing
+SouthAmerica_Chile_HeliSkiing_PowderSouthHeliskiGuides,Powder South Heliski Guides,http://www.powderhounds.com/SouthAmerica/Chile/Heli-skiing/Powder-South-Heliski-Guides.aspx,2,SouthAmerica_Chile_HeliSkiing
+SouthAmerica_Chile_HeliSkiing_AndesHeliboarding,Andes Heliboarding,http://www.powderhounds.com/SouthAmerica/Chile/Heli-skiing/Andes-Heliboarding.aspx,3,SouthAmerica_Chile_HeliSkiing
+SouthAmerica_Chile_Packages,Packages,http://www.powderhounds.com/SouthAmerica/Chile/Packages.aspx,14,SouthAmerica_Chile
+SouthAmerica_Argentina,Argentina,http://www.powderhounds.com/SouthAmerica/Argentina.aspx,4,SouthAmerica
+SouthAmerica_Argentina_HostedTours,Hosted Tours,http://www.powderhounds.com/SouthAmerica/Argentina/Hosted-Tours.aspx,0,SouthAmerica_Argentina
+SouthAmerica_Argentina_MallinAlto,Mallin Alto,http://www.powderhounds.com/SouthAmerica/Argentina/Mallin-Alto/Sled-Access-Backcountry.aspx,1,SouthAmerica_Argentina
+SouthAmerica_Argentina_Bariloche,Bariloche,http://www.powderhounds.com/SouthAmerica/Argentina/Bariloche.aspx,2,SouthAmerica_Argentina
+SouthAmerica_Argentina_Caviahue,Caviahue,http://www.powderhounds.com/SouthAmerica/Argentina/Caviahue.aspx,3,SouthAmerica_Argentina
+SouthAmerica_Argentina_CerroBayo,Cerro Bayo,http://www.powderhounds.com/SouthAmerica/Argentina/CerroBayo.aspx,4,SouthAmerica_Argentina
+SouthAmerica_Argentina_CerroCatedral,Cerro Catedral,http://www.powderhounds.com/SouthAmerica/Argentina/Catedral.aspx,5,SouthAmerica_Argentina
+SouthAmerica_Argentina_CerroChapelco,Cerro Chapelco,http://www.powderhounds.com/SouthAmerica/Argentina/Chapelco.aspx,6,SouthAmerica_Argentina
+SouthAmerica_Argentina_LaHoya,La Hoya,http://www.powderhounds.com/SouthAmerica/Argentina/LaHoya.aspx,7,SouthAmerica_Argentina
+SouthAmerica_Argentina_LasLeñas,Las Leñas,http://www.powderhounds.com/SouthAmerica/Argentina/Las-Lenas.aspx,8,SouthAmerica_Argentina
+SouthAmerica_Argentina_LosPenitentes,Los Penitentes,http://www.powderhounds.com/SouthAmerica/Argentina/Los-Penitentes.aspx,9,SouthAmerica_Argentina
+SouthAmerica_Argentina_PeritoMoreno,Perito Moreno,http://www.powderhounds.com/SouthAmerica/Argentina/Perito-Moreno.aspx,10,SouthAmerica_Argentina
+SouthAmerica_Argentina_SanMartindelosAndes,San Martin de los Andes,http://www.powderhounds.com/SouthAmerica/Argentina/San-Martin-de-los-Andes.aspx,11,SouthAmerica_Argentina
+SouthAmerica_Argentina_VillalaAngostura,Villa la Angostura,http://www.powderhounds.com/SouthAmerica/Argentina/VillalaAngostura.aspx,12,SouthAmerica_Argentina
+SouthAmerica_Argentina_BuenosAires,Buenos Aires,http://www.powderhounds.com/SouthAmerica/Argentina/BuenosAires.aspx,13,SouthAmerica_Argentina
+SouthAmerica_Argentina_HeliSkiing,Heli Skiing,http://www.powderhounds.com/SouthAmerica/Argentina/Heli-Skiing.aspx,14,SouthAmerica_Argentina
+SouthAmerica_Argentina_HeliSkiing_PowderSouth,Powder South,http://www.powderhounds.com/SouthAmerica/Chile/Heli-skiing/Powder-South-Heliski-Guides.aspx,0,SouthAmerica_Argentina_HeliSkiing
+SouthAmerica_Argentina_MallinAlto,Mallin Alto,http://www.powderhounds.com/SouthAmerica/Argentina/Mallin-Alto.aspx,15,SouthAmerica_Argentina
+SouthAmerica_CatSkiing,Cat Skiing,http://www.powderhounds.com#,5,SouthAmerica
+SouthAmerica_CatSkiing_ArpaCatSkiing(Chile),Arpa Cat Skiing (Chile),http://www.powderhounds.com/SouthAmerica/Chile/Arpa-Cat-Skiing.aspx,0,SouthAmerica_CatSkiing
+SouthAmerica_CatSkiing_BagualesCatSkiing(Argentina),Baguales Cat Skiing (Argentina),http://www.powderhounds.com/SouthAmerica/Argentina/Baguales-Mountain-Reserve.aspx,1,SouthAmerica_CatSkiing
+SouthAmerica_CatSkiing_MallinAlto(Argentina),Mallin Alto (Argentina),http://www.powderhounds.com/SouthAmerica/Argentina/Mallin-Alto/Sled-Access-Backcountry.aspx,2,SouthAmerica_CatSkiing
+SouthAmerica_HeliSkiing,Heli Skiing,http://www.powderhounds.com#,6,SouthAmerica
+SouthAmerica_HeliSkiing_Packages,Packages,http://www.powderhounds.com/SouthAmerica/Hosted-Tours.aspx?Country=South+America&TourType=64,0,SouthAmerica_HeliSkiing
+SouthAmerica_HeliSkiing_PowderSouthChile,Powder South Chile,http://www.powderhounds.com/SouthAmerica/Chile/Heli-skiing/Powder-South-Heliski-Guides.aspx,1,SouthAmerica_HeliSkiing
+SouthAmerica_HeliSkiing_AndesHeliboarding,Andes Heliboarding,http://www.powderhounds.com/SouthAmerica/Chile/Heli-skiing/Andes-Heliboarding.aspx,2,SouthAmerica_HeliSkiing
+SouthAmerica_HeliSkiing_PumaLodgeHeliskiing,Puma Lodge Heliskiing,http://www.powderhounds.com/Ski-Shop/Travel-Services/Tour-Operators/Upscape-Travel/Puma-Lodge-Heli-Skiing.aspx,3,SouthAmerica_HeliSkiing
+SouthAmerica_HeliSkiing_SantiagoDayHeliskiing,Santiago Day Heliskiing,http://www.powderhounds.com/Ski-Shop/Travel-Services/Tour-Operators/Upscape-Travel/Santiago-Day-Heliskiing.aspx,4,SouthAmerica_HeliSkiing
+USA,USA,http://www.powderhounds.com/USA.aspx,5,
+USA_HostedTours,Hosted Tours,http://www.powderhounds.com/USA/Tours.aspx,0,USA
+USA_HostedTours_RoadTrips,Road Trips,http://www.powderhounds.com/USA/Tours.aspx?Country=USA&TourType=1,0,USA_HostedTours
+USA_HostedTours_CatSkiing,Cat Skiing,http://www.powderhounds.com/USA/Tours.aspx?Country=USA&TourType=128,1,USA_HostedTours
+USA_HeliSkiing,Heli Skiing,http://www.powderhounds.com/USA/Heli-Skiing.aspx,1,USA
+USA_HeliSkiing_USAHELITOURS,USA HELI TOURS,http://www.powderhounds.com/USA/Heli-Skiing/Packages.aspx,0,USA_HeliSkiing
+USA_HeliSkiing_BlackOpsValdez,Black Ops Valdez,http://www.powderhounds.com/USA/Heli-Skiing/Black-Ops-Valdez.aspx,1,USA_HeliSkiing
+USA_HeliSkiing_PointsNorthHeliSkiing,Points North Heli Skiing,http://www.powderhounds.com/USA/Heli-Skiing/Points-North-Heli-Skiing.aspx,2,USA_HeliSkiing
+USA_HeliSkiing_TellurideHelitrax,Telluride Helitrax,http://www.powderhounds.com/USA/Heli-Skiing/Telluride-Helitrax.aspx,3,USA_HeliSkiing
+USA_HeliSkiing_ValdezHeliSkiGuides,Valdez Heli Ski Guides,http://www.powderhounds.com/USA/Heli-Skiing/Valdez-Heli-Ski-Guides.aspx,4,USA_HeliSkiing
+USA_HeliSkiing_SeabaHeliskiing,Seaba Heliskiing,http://www.powderhounds.com/USA/Heli-Skiing/Seaba-Heliskiing.aspx,5,USA_HeliSkiing
+USA_HeliSkiing_AlaskaSnowboardGuides,Alaska Snowboard Guides,http://www.powderhounds.com/USA/Heli-Skiing/Alaska-Snowboard-Guides.aspx,6,USA_HeliSkiing
+USA_CatSkiing,Cat Skiing,http://www.powderhounds.com/USA/Cat-Skiing.aspx,2,USA
+USA_CatSkiing_USASNOWCATTOURS,USA SNOWCAT TOURS,http://www.powderhounds.com/USA/Cat-Skiing/Packages.aspx,0,USA_CatSkiing
+USA_CatSkiing_AspenPowderTours,Aspen Powder Tours,http://www.powderhounds.com/USA/Cat-Skiing/Aspen-Cat-Skiing.aspx,1,USA_CatSkiing
+USA_CatSkiing_ParkCityPowdercats,Park City Powdercats,http://www.powderhounds.com/USA/Cat-Skiing/ParkCity-Powdercats.aspx,2,USA_CatSkiing
+USA_CatSkiing_SelkirkPowder,Selkirk Powder,http://www.powderhounds.com/USA/Cat-Skiing/SelkirkPowder.aspx,3,USA_CatSkiing
+USA_CatSkiing_SteamboatPowdercats,Steamboat Powdercats,http://www.powderhounds.com/USA/Cat-Skiing/Steamboat-Powdercats.aspx,4,USA_CatSkiing
+USA_CatSkiing_SilvertonPowdercats,Silverton Powdercats,http://www.powderhounds.com/USA/Cat-Skiing/Silverton-Powdercats.aspx,5,USA_CatSkiing
+USA_CatSkiing_PacificCrestSnowcats,Pacific Crest Snowcats,http://www.powderhounds.com/USA/Cat-Skiing/Pacific-Crest-Snowcats.aspx,6,USA_CatSkiing
+USA_Alaska,Alaska,http://www.powderhounds.com/USA/Alaska.aspx,3,USA
+USA_Alaska_HeliSkiPackages,Heli Ski Packages,http://www.powderhounds.com/USA/Alaska/Heli-Ski-Packages.aspx,0,USA_Alaska
+USA_Alaska_Alyeska,Alyeska,http://www.powderhounds.com/USA/Alaska/Alyeska.aspx,1,USA_Alaska
+USA_California,California,http://www.powderhounds.com/USA/California.aspx,4,USA
+USA_California_AlpineMeadows,Alpine Meadows,http://www.powderhounds.com/USA/California/AlpineMeadows.aspx,0,USA_California
+USA_California_Heavenly,Heavenly,http://www.powderhounds.com/USA/California/Heavenly.aspx,1,USA_California
+USA_California_Kirkwood,Kirkwood,http://www.powderhounds.com/USA/California/Kirkwood.aspx,2,USA_California
+USA_California_LakeTahoe,Lake Tahoe,http://www.powderhounds.com/USA/California/Lake-Tahoe.aspx,3,USA_California
+USA_California_MammothMountain,Mammoth Mountain,http://www.powderhounds.com/USA/California/Mammoth-Mountain.aspx,4,USA_California
+USA_California_Northstar,Northstar,http://www.powderhounds.com/USA/California/Northstar.aspx,5,USA_California
+USA_California_SierraatTahoe,Sierra at Tahoe,http://www.powderhounds.com/USA/California/Sierra-at-Tahoe.aspx,6,USA_California
+USA_California_SouthLakeTahoe,South Lake Tahoe,http://www.powderhounds.com/USA/California/South-Lake-Tahoe.aspx,7,USA_California
+USA_California_SquawValley,Squaw Valley,http://www.powderhounds.com/USA/California/SquawValley.aspx,8,USA_California
+USA_California_SugarBowl,Sugar Bowl,http://www.powderhounds.com/USA/California/Sugar-Bowl.aspx,9,USA_California
+USA_California_JuneMountain,June Mountain,http://www.powderhounds.com/USA/California/June-Mountain.aspx,10,USA_California
+USA_California_Homewood,Homewood,http://www.powderhounds.com/USA/California/Homewood.aspx,11,USA_California
+USA_California_Truckee,Truckee,http://www.powderhounds.com/USA/California/Truckee.aspx,12,USA_California
+USA_Colorado,Colorado,http://www.powderhounds.com/USA/Colorado.aspx,5,USA
+USA_Colorado_ArapahoeBasin,Arapahoe Basin,http://www.powderhounds.com/USA/Colorado/ArapahoeBasin.aspx,0,USA_Colorado
+USA_Colorado_AspenSnowmass,Aspen Snowmass,http://www.powderhounds.com/USA/Colorado/Aspen.aspx,1,USA_Colorado
+USA_Colorado_AspenSnowmass_AspenHighlands,Aspen Highlands,http://www.powderhounds.com/USA/Colorado/Aspen-Highlands.aspx,0,USA_Colorado_AspenSnowmass
+USA_Colorado_AspenSnowmass_AspenMountain,Aspen Mountain,http://www.powderhounds.com/USA/Colorado/Aspen-Mountain.aspx,1,USA_Colorado_AspenSnowmass
+USA_Colorado_AspenSnowmass_Buttermilk,Buttermilk,http://www.powderhounds.com/USA/Colorado/Buttermilk.aspx,2,USA_Colorado_AspenSnowmass
+USA_Colorado_AspenSnowmass_Snowmass,Snowmass,http://www.powderhounds.com/USA/Colorado/Snowmass.aspx,3,USA_Colorado_AspenSnowmass
+USA_Colorado_BeaverCreek,Beaver Creek,http://www.powderhounds.com/USA/Colorado/BeaverCreek.aspx,2,USA_Colorado
+USA_Colorado_Breckenridge,Breckenridge,http://www.powderhounds.com/USA/Colorado/Breckenridge.aspx,3,USA_Colorado
+USA_Colorado_CopperMountain,Copper Mountain,http://www.powderhounds.com/USA/Colorado/Copper-Mountain.aspx,4,USA_Colorado
+USA_Colorado_CrestedButte,Crested Butte,http://www.powderhounds.com/USA/Colorado/CrestedButte.aspx,5,USA_Colorado
+USA_Colorado_Keystone,Keystone,http://www.powderhounds.com/USA/Colorado/Keystone.aspx,6,USA_Colorado
+USA_Colorado_Powderhorn,Powderhorn,http://www.powderhounds.com/USA/Colorado/Powderhorn.aspx,7,USA_Colorado
+USA_Colorado_Purgatory,Purgatory,http://www.powderhounds.com/USA/Colorado/Durango-Purgatory.aspx,8,USA_Colorado
+USA_Colorado_SkiCooper,Ski Cooper,http://www.powderhounds.com/USA/Colorado/Ski-Cooper.aspx,9,USA_Colorado
+USA_Colorado_Monarch,Monarch,http://www.powderhounds.com/USA/Colorado/Monarch.aspx,10,USA_Colorado
+USA_Colorado_Silverton,Silverton,http://www.powderhounds.com/USA/Colorado/Silverton.aspx,11,USA_Colorado
+USA_Colorado_Steamboat,Steamboat,http://www.powderhounds.com/USA/Colorado/Steamboat.aspx,12,USA_Colorado
+USA_Colorado_WinterPark,Winter Park,http://www.powderhounds.com/USA/Colorado/WinterPark.aspx,13,USA_Colorado
+USA_Colorado_Telluride,Telluride,http://www.powderhounds.com/USA/Colorado/Telluride.aspx,14,USA_Colorado
+USA_Colorado_Vail,Vail,http://www.powderhounds.com/USA/Colorado/Vail.aspx,15,USA_Colorado
+USA_Colorado_WolfCreek,Wolf Creek,http://www.powderhounds.com/USA/Colorado/Wolf-Creek.aspx,16,USA_Colorado
+USA_Idaho,Idaho,http://www.powderhounds.com/USA/Idaho.aspx,6,USA
+USA_Idaho_Schweitzer,Schweitzer,http://www.powderhounds.com/USA/Idaho/Schweitzer.aspx,0,USA_Idaho
+USA_Idaho_SunValley,SunValley,http://www.powderhounds.com/USA/Idaho/SunValley.aspx,1,USA_Idaho
+USA_NewMexico,New Mexico,http://www.powderhounds.com/USA/New-Mexico.aspx,7,USA
+USA_NewMexico_Taos,Taos,http://www.powderhounds.com/USA/New-Mexico/Taos.aspx,0,USA_NewMexico
+USA_Utah,Utah,http://www.powderhounds.com/USA/Utah.aspx,8,USA
+USA_Utah_Alta,Alta,http://www.powderhounds.com/USA/Utah/Alta.aspx,0,USA_Utah
+USA_Utah_ParkCity,Park City,http://www.powderhounds.com/USA/Utah/ParkCity.aspx,1,USA_Utah
+USA_Utah_ParkCity_Canyons,Canyons,http://www.powderhounds.com/USA/Utah/TheCanyons.aspx,0,USA_Utah_ParkCity
+USA_Utah_BrianHead,Brian Head,http://www.powderhounds.com/USA/Utah/Brian-Head.aspx,2,USA_Utah
+USA_Utah_Brighton,Brighton,http://www.powderhounds.com/USA/Utah/Brighton.aspx,3,USA_Utah
+USA_Utah_DeerValley,Deer Valley,http://www.powderhounds.com/USA/Utah/DeerValley.aspx,4,USA_Utah
+USA_Utah_PowderMountain,Powder Mountain,http://www.powderhounds.com/USA/Utah/PowderMountain.aspx,5,USA_Utah
+USA_Utah_SaltLakeCity,Salt Lake City,http://www.powderhounds.com/USA/Utah/Salt-Lake-City.aspx,6,USA_Utah
+USA_Utah_Snowbasin,Snowbasin,http://www.powderhounds.com/USA/Utah/Snowbasin.aspx,7,USA_Utah
+USA_Utah_Solitude,Solitude,http://www.powderhounds.com/USA/Utah/Solitude.aspx,8,USA_Utah
+USA_Utah_NordicValley,Nordic Valley,http://www.powderhounds.com/USA/Utah/WolfMountain.aspx,9,USA_Utah
+USA_Utah_Snowbird,Snowbird,http://www.powderhounds.com/USA/Utah/Snowbird.aspx,10,USA_Utah
+USA_Utah_Sundance,Sundance,http://www.powderhounds.com/USA/Utah/Sundance.aspx,11,USA_Utah
+USA_Wyoming,Wyoming,http://www.powderhounds.com/USA/Wyoming.aspx,9,USA
+USA_Wyoming_GrandTarghee,Grand Targhee,http://www.powderhounds.com/USA/Wyoming/GrandTarghee.aspx,0,USA_Wyoming
+USA_Wyoming_JacksonHole,Jackson Hole,http://www.powderhounds.com/USA/Wyoming/JacksonHole.aspx,1,USA_Wyoming
+USA_Montana,Montana,http://www.powderhounds.com/USA/Montana.aspx,10,USA
+USA_Montana_BigSky,Big Sky,http://www.powderhounds.com/USA/Montana/BigSky.aspx,0,USA_Montana
+USA_Montana_BridgerBowl,Bridger Bowl,http://www.powderhounds.com/USA/Montana/BridgerBowl.aspx,1,USA_Montana
+USA_Montana_Snowbowl,Snowbowl,http://www.powderhounds.com/USA/Montana/Snowbowl.aspx,2,USA_Montana
+USA_Montana_Whitefish,Whitefish,http://www.powderhounds.com/USA/Montana/Whitefish.aspx,3,USA_Montana
+USA_Washington,Washington,http://www.powderhounds.com#,11,USA
+USA_Washington_CrystalMountain,Crystal Mountain,http://www.powderhounds.com/USA/Washington/Crystal-Mountain.aspx,0,USA_Washington
+USA_Washington_MtBaker,Mt Baker,http://www.powderhounds.com/USA/Washington/MtBaker.aspx,1,USA_Washington
+USA_Washington_StevensPass,Stevens Pass,http://www.powderhounds.com/USA/Washington/StevensPass.aspx,2,USA_Washington
+USA_Oregon,Oregon,http://www.powderhounds.com#,12,USA
+USA_Oregon_Willamette,Willamette,http://www.powderhounds.com/USA/Oregon/Willamette.aspx,0,USA_Oregon
+USA_Nevada,Nevada,http://www.powderhounds.com#,13,USA
+USA_Nevada_DiamondPeak,Diamond Peak,http://www.powderhounds.com/USA/Nevada/Diamond-Peak.aspx,0,USA_Nevada
+USA_Nevada_InclineVillage,Incline Village,http://www.powderhounds.com/USA/Nevada/Incline-Village.aspx,1,USA_Nevada
+USA_Nevada_MtRose,Mt Rose,http://www.powderhounds.com/USA/Nevada/Mt-Rose.aspx,2,USA_Nevada
+USA_Nevada_Reno,Reno,http://www.powderhounds.com/USA/Nevada/Reno.aspx,3,USA_Nevada
+NewZealand,New Zealand,http://www.powderhounds.com/NewZealand.aspx,6,
+NewZealand_HotDeals,Hot Deals,http://www.powderhounds.com/NewZealand/Hot-Deals.aspx,0,NewZealand
+NewZealand_HotDeals_Packages,Packages,http://www.powderhounds.com/NewZealand/Hot-Deals.aspx?Country=New+Zealand&tab=packages,0,NewZealand_HotDeals
+NewZealand_HotDeals_HostedTours,Hosted Tours,http://www.powderhounds.com/NewZealand/Hot-Deals.aspx?Country=New+Zealand&tab=tours,1,NewZealand_HotDeals
+NewZealand_HostedTours,Hosted Tours,http://www.powderhounds.com/NewZealand/Tours.aspx,1,NewZealand
+NewZealand_HostedTours_ToursSchedule,Tours Schedule,http://www.powderhounds.com/NewZealand/Tours-Schedule.aspx,0,NewZealand_HostedTours
+NewZealand_HostedTours_RoadTrips,Road Trips,http://www.powderhounds.com/listings-search-results.aspx?Country=New+Zealand&TourType=1,1,NewZealand_HostedTours
+NewZealand_HostedTours_HeliSkiingTours,Heli Skiing Tours,http://www.powderhounds.com/NewZealand/Heli-Skiing/Packages.aspx?Country=New+Zealand&TourType=64,2,NewZealand_HostedTours
+NewZealand_Packages,Packages,http://www.powderhounds.com/NewZealand/Packages.aspx,2,NewZealand
+NewZealand_Packages_Queenstown,Queenstown,http://www.powderhounds.com/NewZealand/Queenstown/Packages.aspx?Country=New+Zealand&Region=Queenstown,0,NewZealand_Packages
+NewZealand_Packages_Wanaka,Wanaka,http://www.powderhounds.com/NewZealand/Wanaka/Packages.aspx?Country=New+Zealand&Region=Wanaka,1,NewZealand_Packages
+NewZealand_Packages_Methven,Methven,http://www.powderhounds.com/NewZealand/Methven-Area/Packages.aspx?Country=New+Zealand&Region=Methven,2,NewZealand_Packages
+NewZealand_QueenstownArea,Queenstown Area,http://www.powderhounds.com/NewZealand/Queenstown.aspx,3,NewZealand
+NewZealand_QueenstownArea_Packages,Packages,http://www.powderhounds.com/NewZealand/Queenstown/Packages.aspx?Country=New+Zealand&Region=Queenstown,0,NewZealand_QueenstownArea
+NewZealand_QueenstownArea_Queenstown,Queenstown,http://www.powderhounds.com/NewZealand/Queenstown.aspx,1,NewZealand_QueenstownArea
+NewZealand_QueenstownArea_CoronetPeak,CoronetPeak,http://www.powderhounds.com/NewZealand/CoronetPeak.aspx,2,NewZealand_QueenstownArea
+NewZealand_QueenstownArea_Remarkables,Remarkables,http://www.powderhounds.com/NewZealand/Remarkables.aspx,3,NewZealand_QueenstownArea
+NewZealand_QueenstownArea_AlpineHeliski,Alpine Heliski,http://www.powderhounds.com/NewZealand/Heli-skiing/Alpine-Heliski-NZ.aspx,4,NewZealand_QueenstownArea
+NewZealand_QueenstownArea_SouthernLakesHeli,Southern Lakes Heli,http://www.powderhounds.com/NewZealand/Heli-skiing/Southern-Lakes-Heliski.aspx,5,NewZealand_QueenstownArea
+NewZealand_QueenstownArea_HarrisMntsHeliski,Harris Mnts Heliski,http://www.powderhounds.com/NewZealand/Heli-skiing/Harris-Mountains.aspx,6,NewZealand_QueenstownArea
+NewZealand_LakeWanakaArea,Lake Wanaka Area,http://www.powderhounds.com/NewZealand/Wanaka.aspx,4,NewZealand
+NewZealand_LakeWanakaArea_Packages,Packages,http://www.powderhounds.com/NewZealand/Wanaka/Packages.aspx?Country=New+Zealand&Region=Wanaka,0,NewZealand_LakeWanakaArea
+NewZealand_LakeWanakaArea_Wanaka,Wanaka,http://www.powderhounds.com/NewZealand/Wanaka.aspx,1,NewZealand_LakeWanakaArea
+NewZealand_LakeWanakaArea_TrebleCone,TrebleCone,http://www.powderhounds.com/NewZealand/TrebleCone.aspx,2,NewZealand_LakeWanakaArea
+NewZealand_LakeWanakaArea_Cardrona,Cardrona,http://www.powderhounds.com/NewZealand/Cardrona.aspx,3,NewZealand_LakeWanakaArea
+NewZealand_LakeWanakaArea_HarrisMtnsHeliski,Harris Mtns Heliski,http://www.powderhounds.com/NewZealand/Heli-skiing/Harris-Mountains.aspx,4,NewZealand_LakeWanakaArea
+NewZealand_MethvenArea,Methven Area,http://www.powderhounds.com/NewZealand/Methven.aspx,5,NewZealand
+NewZealand_MethvenArea_Packages,Packages,http://www.powderhounds.com/NewZealand/Methven-Area/Packages.aspx,0,NewZealand_MethvenArea
+NewZealand_MethvenArea_Methven,Methven,http://www.powderhounds.com/NewZealand/Methven.aspx,1,NewZealand_MethvenArea
+NewZealand_MethvenArea_MtHutt,Mt Hutt,http://www.powderhounds.com/NewZealand/MtHutt.aspx,2,NewZealand_MethvenArea
+NewZealand_MethvenArea_MethvenHeliski,Methven Heliski,http://www.powderhounds.com/NewZealand/Heli-skiing/Methven-Heliski.aspx,3,NewZealand_MethvenArea
+NewZealand_CanterburyHighlands,Canterbury Highlands,http://www.powderhounds.com#,6,NewZealand
+NewZealand_CanterburyHighlands_Porters,Porters,http://www.powderhounds.com/NewZealand/Porters.aspx,0,NewZealand_CanterburyHighlands
+NewZealand_CanterburyHighlands_Craigieburn,Craigieburn,http://www.powderhounds.com/NewZealand/Craigieburn.aspx,1,NewZealand_CanterburyHighlands
+NewZealand_CanterburyHighlands_BrokenRiver,BrokenRiver,http://www.powderhounds.com/NewZealand/BrokenRiver.aspx,2,NewZealand_CanterburyHighlands
+NewZealand_CanterburyHighlands_TempleBasin,Temple Basin,http://www.powderhounds.com/NewZealand/TempleBasin.aspx,3,NewZealand_CanterburyHighlands
+NewZealand_CanterburyHighlands_MtOlympus,Mt Olympus,http://www.powderhounds.com/NewZealand/Mount-Olympus.aspx,4,NewZealand_CanterburyHighlands
+NewZealand_CanterburyHighlands_HanmerSprings,Hanmer Springs,http://www.powderhounds.com/NewZealand/Hanmer-Springs.aspx,5,NewZealand_CanterburyHighlands
+NewZealand_CanterburyHighlands_MtCheeseman,Mt Cheeseman,http://www.powderhounds.com/NewZealand/MtCheeseman.aspx,6,NewZealand_CanterburyHighlands
+NewZealand_CanterburyHighlands_MtLyford,Mt Lyford,http://www.powderhounds.com/NewZealand/MtLyford.aspx,7,NewZealand_CanterburyHighlands
+NewZealand_LakeTekapoArea,Lake Tekapo Area,http://www.powderhounds.com/NewZealand/Lake-Tekapo.aspx,7,NewZealand
+NewZealand_LakeTekapoArea_LakeTekapo,Lake Tekapo,http://www.powderhounds.com/NewZealand/Lake-Tekapo.aspx,0,NewZealand_LakeTekapoArea
+NewZealand_LakeTekapoArea_FoxPeak,Fox Peak,http://www.powderhounds.com/NewZealand/Fox-Peak.aspx,1,NewZealand_LakeTekapoArea
+NewZealand_LakeTekapoArea_Ohau,Ohau,http://www.powderhounds.com/NewZealand/Ohau.aspx,2,NewZealand_LakeTekapoArea
+NewZealand_LakeTekapoArea_Roundhill,Roundhill,http://www.powderhounds.com/NewZealand/Roundhill.aspx,3,NewZealand_LakeTekapoArea
+NewZealand_LakeTekapoArea_MtDobson,Mt Dobson,http://www.powderhounds.com/NewZealand/Mt-Dobson.aspx,4,NewZealand_LakeTekapoArea
+NewZealand_MtCookArea,Mt Cook Area,http://www.powderhounds.com/NewZealand/Mt-Cook.aspx,8,NewZealand
+NewZealand_MtCookArea_MtCook,Mt Cook,http://www.powderhounds.com/NewZealand/Mt-Cook.aspx,0,NewZealand_MtCookArea
+NewZealand_MtCookArea_MtCookHeliski,Mt Cook Heliski,http://www.powderhounds.com/NewZealand/Heli-skiing/Wilderness-Heli-Skiing.aspx,1,NewZealand_MtCookArea
+NewZealand_MtCookArea_SkiTheTasman,Ski The Tasman,http://www.powderhounds.com/NewZealand/Heli-skiing/Ski-The-Tasman.aspx,2,NewZealand_MtCookArea
+NewZealand_NorthIsland,North Island,http://www.powderhounds.com#,9,NewZealand
+NewZealand_NorthIsland_Turoa,Turoa,http://www.powderhounds.com/NewZealand/Turoa.aspx,0,NewZealand_NorthIsland
+NewZealand_NorthIsland_Whakapapa,Whakapapa,http://www.powderhounds.com/NewZealand/Whakapapa.aspx,1,NewZealand_NorthIsland
+NewZealand_Heliskiing,Heliskiing,http://www.powderhounds.com/NewZealand/Heli-skiing.aspx,10,NewZealand
+NewZealand_Heliskiing_NZHELIPACKAGES,NZ HELI PACKAGES,http://www.powderhounds.com/NewZealand/Heli-skiing/Packages.aspx,0,NewZealand_Heliskiing
+NewZealand_Heliskiing_AlpineHeliskiNZ,Alpine Heliski NZ,http://www.powderhounds.com/NewZealand/Heli-skiing/Alpine-Heliski-NZ.aspx,1,NewZealand_Heliskiing
+NewZealand_Heliskiing_MethvenHeliski,Methven Heliski,http://www.powderhounds.com/NewZealand/Heli-skiing/Methven-Heliski.aspx,2,NewZealand_Heliskiing
+NewZealand_Heliskiing_MountCookHeliski,Mount Cook Heliski,http://www.powderhounds.com/NewZealand/Heli-skiing/Mount-Cook-Heliski.aspx,3,NewZealand_Heliskiing
+NewZealand_Heliskiing_HarrisMountainsHeliski,Harris Mountains Heliski,http://www.powderhounds.com/NewZealand/Heli-skiing/Harris-Mountains.aspx,4,NewZealand_Heliskiing
+NewZealand_Heliskiing_SouthernLakesHeliski,Southern Lakes Heliski,http://www.powderhounds.com/NewZealand/Heli-skiing/Southern-Lakes-Heliski.aspx,5,NewZealand_Heliskiing
+NewZealand_Heliskiing_SkiTheTasman,Ski The Tasman,http://www.powderhounds.com/NewZealand/Heli-skiing/Ski-The-Tasman.aspx,6,NewZealand_Heliskiing
+Other,Other,http://www.powderhounds.com#,7,
+Other_India,India,http://www.powderhounds.com/Other/India.aspx,0,Other
+Other_India_Gulmarg,Gulmarg,http://www.powderhounds.com/Other/India/Gulmarg.aspx,0,Other_India
+Other_India_HostedTours,Hosted Tours,http://www.powderhounds.com/Other/India/Tours.aspx,1,Other_India
+Other_India_HimalayanHeliAdventures,Himalayan Heli Adventures,http://www.powderhounds.com/Other/India/Himalayan-Heli-Adventures.aspx,2,Other_India
+Other_Australia,Australia,http://www.powderhounds.com/Other/Australia.aspx,1,Other
+Other_Australia_FallsCreek,Falls Creek,http://www.powderhounds.com/Other/Australia/Falls-Creek.aspx,0,Other_Australia
+Other_Australia_MtHotham,Mt Hotham,http://www.powderhounds.com/Other/Australia/Mt-Hotham.aspx,1,Other_Australia
+Other_Australia_Perisher,Perisher,http://www.powderhounds.com/Other/Australia/Perisher.aspx,2,Other_Australia
+Other_Australia_Thredbo,Thredbo,http://www.powderhounds.com/Other/Australia/Thredbo.aspx,3,Other_Australia
+Other_Australia_DinnerPlain,Dinner Plain,http://www.powderhounds.com/Other/Australia/Dinner-Plain.aspx,4,Other_Australia
+Other_Stopovers,Stopovers,http://www.powderhounds.com#,2,Other
+Other_Stopovers_Singapore,Singapore,http://www.powderhounds.com/Other/Stopover/Singapore.aspx,0,Other_Stopovers
+Other_Stopovers_Tokyo,Tokyo,http://www.powderhounds.com/Japan/Honshu/Tokyo.aspx,1,Other_Stopovers
+Other_Stopovers_BuenosAires,Buenos Aires,http://www.powderhounds.com/SouthAmerica/Argentina/BuenosAires.aspx,2,Other_Stopovers
+Other_Stopovers_Santiago,Santiago,http://www.powderhounds.com/SouthAmerica/Chile/Santiago.aspx,3,Other_Stopovers
+POWShop,POW Shop,http://www.powderhounds.com#,8,
+POWShop_HotDeals,Hot Deals,http://www.powderhounds.com/Hot-Deals.aspx,0,POWShop
+POWShop_TravelServices,Travel Services,http://www.powderhounds.com/Ski-Shop/Travel-Services.aspx,1,POWShop
+POWShop_TravelServices_SkiInsurance,Ski Insurance,http://www.powderhounds.com/Ski-Shop/Travel-Services/Ski-Insurance.aspx,0,POWShop_TravelServices
+POWShop_TravelServices_AccommodationBookings,Accommodation Bookings,http://www.powderhounds.com/Ski-Shop/Travel-Services/Accommodation-Bookings.aspx,1,POWShop_TravelServices
+POWShop_TravelServices_CarRental,Car Rental,http://www.powderhounds.com/Ski-Shop/Travel-Services/Car-Hire.aspx,2,POWShop_TravelServices
+POWShop_TravelServices_AirlineBookings,Airline Bookings,http://www.powderhounds.com/Ski-Shop/Travel-Services/Airline-Bookings.aspx,3,POWShop_TravelServices
+POWShop_SkiSnowboardGear,Ski & Snowboard Gear,http://www.powderhounds.com/Ski-Shop/Ski-Snowboard-Gear.aspx,2,POWShop
+POWShop_PowderSkis,Powder Skis,http://www.powderhounds.com/Ski-Shop/Powder-Skis.aspx,3,POWShop
+POWShop_SkiTripPackingList,Ski Trip Packing List,http://www.powderhounds.com/Ski-Shop/Ski-Trip-Packing-List.aspx,4,POWShop
