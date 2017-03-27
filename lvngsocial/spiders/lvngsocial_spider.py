@@ -6,7 +6,7 @@ from scrapy.selector import HtmlXPathSelector
 from scrapy.contrib.loader import XPathItemLoader
 from scrapy.contrib.loader.processor import Join, MapCompose
 
-from scr_app.items import LivingSocial
+from lvngsocial.items import LivingSocial
 
 
 class LvngSocialSpider(BaseSpider):
